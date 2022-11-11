@@ -1,0 +1,30 @@
+.text-light {
+    color: white;
+}
+.app-title{
+    text-transform:uppercase;
+}
+.btn-light-green{
+    background-color: #22818a;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+.btn-light-green:hover{
+    background-color: #20727b;
+}
+::placeholder{
+    text-align: center;
+}
+.form a {
+    text-decoration: underline;
+    color: white;
+}
+.form a:hover {
+    color: black;
+}
+.logo {
+    background-position: center !important;
+    background-size: 125% 125% !important;
+    padding: 0 !important;
+    width: 125px; margin: auto; height: 125px;
+}

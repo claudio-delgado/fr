@@ -1,0 +1,58 @@
+[
+    {
+        "difficultyCode": 1,
+        "difficultyName": "Sencillo",
+        "categorySelectionAllowed": true,
+        "complexitySelectionAllowed": true,
+        "complexities": ["Fácil", "Normal", "Difícil"],
+        "questionsRequired": 3,
+        "allTrueAnswersRequired": false,
+        "approvedTestScore": 1,
+        "approvedEasyQuestionScore": 1, 
+        "approvedNormalQuestionScore": 2, 
+        "approvedDifficultQuestionScore": 3,
+        "gainAnswerScoreIfFailedTest": "all"
+    },
+    {
+        "difficultyCode": 2,
+        "difficultyName": "Normal",
+        "categorySelectionAllowed": true,
+        "complexitySelectionAllowed": false,
+        "complexities": ["Fácil", "Normal", "Difícil"],
+        "questionsRequired": 5,
+        "allTrueAnswersRequired": true,
+        "approvedTestScore": 3,
+        "approvedEasyQuestionScore": 1, 
+        "approvedNormalQuestionScore": 2, 
+        "approvedDifficultQuestionScore": 4,
+        "gainAnswerScoreIfFailedTest": "all"
+    },
+    {
+        "difficultyCode": 3,
+        "difficultyName": "Complejo",
+        "categorySelectionAllowed": false,
+        "complexitySelectionAllowed": false,
+        "complexities": ["Normal", "Difícil"],
+        "questionsRequired": 8,
+        "allTrueAnswersRequired": true,
+        "approvedTestScore": 6,
+        "approvedEasyQuestionScore": 1, 
+        "approvedNormalQuestionScore": 3, 
+        "approvedDifficultQuestionScore": 5,
+        "gainAnswerScoreIfFailedTest": "Difícil"
+    },
+    {
+        "difficultyCode": 4,
+        "difficultyName": "Muy complejo",
+        "categorySelectionAllowed": false,
+        "complexitySelectionAllowed": false,
+        "complexities": ["Difícil"],
+        "questionsRequired": 12,
+        "allTrueAnswersRequired": true,
+        "approvedTestScore": 12,
+        "approvedEasyQuestionScore": 1, 
+        "approvedNormalQuestionScore": 3, 
+        "approvedDifficultQuestionScore": 6,
+        "gainAnswerScoreIfFailedTest": "none"
+    }
+]

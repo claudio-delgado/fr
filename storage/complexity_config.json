@@ -1,0 +1,29 @@
+[
+    {
+        "code": 1,
+        "name": "Fácil",
+        "bonuses": {
+            "below25": 3,
+            "below50": 2,
+            "below75": 1
+        }
+    },
+    {
+        "code": 2,
+        "name": "Normal",
+        "bonuses": {
+            "below25": 4,
+            "below50": 3,
+            "below75": 2
+        }
+    },
+    {
+        "code": 3,
+        "name": "Difícil",
+        "bonuses": {
+            "below25": 6,
+            "below50": 4,
+            "below75": 3
+        }
+    }
+]

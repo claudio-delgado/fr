@@ -1,0 +1,26 @@
+[
+    {
+        "code": 1,
+        "name": "Matemática"
+    },
+    {
+        "code": 2,
+        "name": "Lógica"
+    },
+    {
+        "code": 3,
+        "name": "Historia"
+    },
+    {
+        "code": 4,
+        "name": "Literatura"
+    },
+    {
+        "code": 5,
+        "name": "Geografía"
+    },
+    {
+        "code": 6,
+        "name": "Ortografía"
+    }
+]
